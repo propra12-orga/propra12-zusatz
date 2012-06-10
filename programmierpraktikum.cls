@@ -16,6 +16,8 @@
 \usepackage[sort]{cite}
 \usepackage{color}
 
+\usepackage{longtable}
+
 \usepackage{mathpazo} % mathpazo schriftart
 
 \usepackage{eurosym} % use €
